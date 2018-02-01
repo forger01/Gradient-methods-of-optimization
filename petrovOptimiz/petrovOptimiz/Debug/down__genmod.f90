@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Sun Oct 22 13:10:36 2017
+        MODULE DOWN__genmod
+          INTERFACE 
+            SUBROUTINE DOWN
+            END SUBROUTINE DOWN
+          END INTERFACE 
+        END MODULE DOWN__genmod

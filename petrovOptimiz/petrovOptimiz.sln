@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "petrovOptimiz", "petrovOptimiz\petrovOptimiz.vfproj", "{89CEB429-5441-4484-A9E8-A0A61CC8B024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89CEB429-5441-4484-A9E8-A0A61CC8B024}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89CEB429-5441-4484-A9E8-A0A61CC8B024}.Debug|Win32.Build.0 = Debug|Win32
+		{89CEB429-5441-4484-A9E8-A0A61CC8B024}.Release|Win32.ActiveCfg = Release|Win32
+		{89CEB429-5441-4484-A9E8-A0A61CC8B024}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
